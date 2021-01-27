@@ -1,7 +1,7 @@
 # DenserNet: Weakly Supervised Visual Localization Using Multi-scale Feature Aggregation 
 
 <p align="center">
-    <img src="figs/frame.png" width="80%">
+    <img src="figs/framework.png" width="80%">
 </p>
 
 ## Introduction
