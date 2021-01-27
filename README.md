@@ -45,7 +45,7 @@ If you find this repo useful for your research, please consider citing the paper
 ```
 
 ## Acknowledgements
-We truely thanksful of the piror efforts in terms of knowledge contributions and open-source repos. "ASLFeat" has a similar approach to ours but using strong supervision.
+We truely thanksful of the following piror efforts in terms of knowledge contributions and open-source repos. Particularly, "ASLFeat" has a similar approach to ours but using strong supervision.
 + NetVLAD: CNN architecture for weakly supervised place recognition (CVPR'16) [[paper]](https://arxiv.org/abs/1511.07247) [[official code (pytorch-NetVlad)]](https://github.com/Nanne/pytorch-NetVlad)
 + SARE: Stochastic Attraction-Repulsion Embedding for Large Scale Image Localization (ICCV'19) [[paper]](https://arxiv.org/abs/1808.08779) [[official code (MatConvNet)]](https://github.com/Liumouliu/deepIBL) 
 + ASLFeat: Learning Local Features of Accurate Shape and Localization (CVPR'20) [[paper]](https://arxiv.org/abs/2003.10071) [[official code]](https://github.com/lzx551402/ASLFeat)
