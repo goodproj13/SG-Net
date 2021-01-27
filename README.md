@@ -29,7 +29,7 @@ Please refer to [Here](help/INSTALL.md#use-custom-dataset-optional) to prepare y
 
 ## License
 
-`DenserNet` is released under the [MIT license](LICENSE).
+`DenserNet` is released under the MIT license.
 
 
 ## Citation
