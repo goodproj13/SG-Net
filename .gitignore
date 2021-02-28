@@ -225,5 +225,7 @@ ENV/
 
 
 # Project specific
-examples/data
-examples/logs
+/data
+/logs
+/result
+/pretrained_model

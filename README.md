@@ -8,24 +8,25 @@
 
 `DenserNet` uses multiple-semantics fusion for image-based localization (as shown in the above figure), which leverages the image-level supervision (positive and negative image pairs) without feature correspondences. This repo is the PyTorch implementation of AAAI2021 paper "DenserNet: Weakly Supervised Visual Localization Using Multi-scale Feature Aggregation."
  [[pdf](https://arxiv.org/abs/2012.02366)] [[project page](https://yimingcuicuicui.github.io/DenserNet/)]
+
 ## Installation
 
-Please find detailed steps [Here](help/INSTALL.md) for installation and dataset preparation.
+Please find detailed steps [Here](docs/INSTALL.md) for installation and dataset preparation.
 
 ## Train & Test
 
-Please find details [Here](help/REPRODUCTION.md) for step-by-step instructions.
+Please find details [Here](docs/REPRODUCTION.md) for step-by-step instructions.
 
 ## Model Zoo
 
-Please refer to [Here](help/MODEL_ZOO.md) for trained models.
+Please refer to [Here](docs/MODEL_ZOO.md) for trained models.
 
 ## Inference on a single image 
-python inference.py
 
+Please refer to [Here](docs/INFERENCE.md) for inference on a single image.
 
 ## Train on customized dataset
-Please refer to [Here](help/INSTALL.md#use-custom-dataset-optional) to prepare your own dataset.
+Please refer to [Here](docs/INSTALL.md#use-custom-dataset-optional) to prepare your own dataset.
 
 ## License
 
