@@ -28,7 +28,7 @@ Please refer to [Here](docs/INFERENCE.md) for inference.
 
 ## License
 
-`DenserNet` is released under the MIT license.
+`SG-Net` is released under the MIT license.
 
 
 ## Acknowledgements
