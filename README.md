@@ -5,7 +5,7 @@
 </p>
 
 ## Introduction
-We approach the [[[VIS task]](https://youtube-vos.org/dataset/vis)  from a new perspective and propose a one-stage spatial granularity network (SG-Net) (as shown in the above figure). This repo is the implementation of CVPR 2021 paper "SG-Net: Spatial Granularity Network for One-Stage Video Instance Segmentation."
+We approach the [[VIS task]](https://youtube-vos.org/dataset/vis)  from a new perspective and propose a one-stage spatial granularity network (SG-Net) (as shown in the above figure). This repo is the implementation of CVPR 2021 paper "SG-Net: Spatial Granularity Network for One-Stage Video Instance Segmentation."
  [[pdf](https://github.com/goodproj13/SG-Net)] 
  
 
