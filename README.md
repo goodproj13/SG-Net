@@ -32,6 +32,6 @@ Please refer to [Here](docs/INFERENCE.md) for inference.
 
 
 ## Acknowledgements
-We truely thanksful of the following piror efforts in terms of knowledge contributions and open-source repos. Particularly, "ASLFeat" has a similar approach to ours but using strong supervision.
+We truely thanksful of the following piror efforts in terms of knowledge contributions and open-source repos. 
 + BlendMask: Top-down meets bottom-up for instance segmentation (CVPR'20) [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_BlendMask_Top-Down_Meets_Bottom-Up_for_Instance_Segmentation_CVPR_2020_paper.pdf) [[official code]](https://github.com/aim-uofa/AdelaiDet/tree/master/configs/BlendMask)
 + Video Instance Segmenation (ICCV'19) [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Video_Instance_Segmentation_ICCV_2019_paper.pdf) [[official code]](https://github.com/youtubevos/MaskTrackRCNN) 
