@@ -9,22 +9,23 @@ We approach the [[VIS task]](https://youtube-vos.org/dataset/vis)  from a new pe
  [[pdf](https://github.com/goodproj13/SG-Net)] 
  
 
-
 ## Installation
 
 Please find detailed steps [Here](docs/INSTALL.md) for installation and dataset preparation.
 
-## Train & Test
+## Train
 
 Please find details [Here](docs/REPRODUCTION.md) for step-by-step instructions.
-
-## Model Zoo
-
-Please refer to [Here](docs/MODEL_ZOO.md) for trained models.
 
 ## Inference
 
 Please refer to [Here](docs/INFERENCE.md) for inference.
+
+## TODO List
+- [x] Baseline model code release
+- [ ] Pretrained weights for baseline model
+- [ ] Full mode code release
+- [ ] Pretrained weights for full model
 
 ## License
 
