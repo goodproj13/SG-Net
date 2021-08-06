@@ -31,6 +31,17 @@ Please refer to [Here](docs/INFERENCE.md) for inference.
 
 `SG-Net` is released under the MIT license.
 
+## Citation
+
+If you find this repo useful for your research, please consider citing the paper
+```
+@article{liu2021sg,
+  title={SG-Net: Spatial Granularity Network for One-Stage Video Instance Segmentation},
+  author={Liu, Dongfang and Cui, Yiming and Tan, Wenbo and Chen, Yingjie},
+  journal={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2021}
+}
+```
 
 ## Acknowledgements
 We truely thanksful of the following piror efforts in terms of knowledge contributions and open-source repos. 
