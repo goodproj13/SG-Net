@@ -21,12 +21,6 @@ Please find details [Here](docs/REPRODUCTION.md) for step-by-step instructions.
 
 Please refer to [Here](docs/INFERENCE.md) for inference.
 
-## TODO List
-- [x] Baseline model code release
-- [ ] Pretrained weights for baseline model
-- [ ] Full mode code release
-- [ ] Pretrained weights for full model
-
 ## License
 
 `SG-Net` is released under the MIT license.
