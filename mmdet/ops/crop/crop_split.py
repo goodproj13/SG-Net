@@ -2,7 +2,6 @@ import torch
 import torch.nn as nn
 from torch.autograd import Function
 from torch.autograd.function import once_differentiable
-from torch.nn.modules.utils import _pair
 
 from . import crop_split_cuda
 
@@ -17,7 +16,7 @@ class CropSplitFunction(Function):
         ctx.height = height
         ctx.width = width
         ctx.n = n
-        ctx.rois = _pair(rois)
+        ctx.rois = rois
         # print(height*width*n)
         output = data.new_zeros(height, width, n)
         crop_split_cuda.crop_split_cuda_forward(data, rois, output, height, width, c, n)
